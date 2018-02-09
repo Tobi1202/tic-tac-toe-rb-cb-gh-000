@@ -10,6 +10,6 @@ WIN_COMBINATIONS = [
 ]
 
 def display_board(board)
-puts " #{board[0]}"
+index = 0
 
 end
