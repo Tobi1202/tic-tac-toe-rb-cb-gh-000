@@ -21,3 +21,5 @@ def display_board(board)
     index += 3
   end
 end
+
+def input_to_index(input)
