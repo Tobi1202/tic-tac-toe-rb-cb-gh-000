@@ -9,4 +9,7 @@ WIN_COMBINATIONS = [
 [2,4,6],
 ]
 
-def display_board
+def display_board(board)
+board.each{cell}
+
+end
