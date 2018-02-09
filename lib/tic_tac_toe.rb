@@ -13,7 +13,7 @@ def display_board(board)
 index = 0
 
 while index <= 6
-puts " #{board[index]} | #{board[index]} | #{board[index+2]}"
+puts " #{board[index]} | #{board[index+1]} | #{board[index+2]} "
 index += 3
 end
 
