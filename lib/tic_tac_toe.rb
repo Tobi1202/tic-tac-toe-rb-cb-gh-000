@@ -31,5 +31,9 @@ def move(board, index, char)
 end
 
 def valid_move?(board, index)
-return board[index] == " "
+  if board[index] == " "
+    return true
+  else
+    return false
+  end
 end
