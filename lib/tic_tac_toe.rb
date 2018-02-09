@@ -10,6 +10,6 @@ WIN_COMBINATIONS = [
 ]
 
 def display_board(board)
-board.each{cell}
+puts " #{board[0]}"
 
 end
