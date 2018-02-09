@@ -15,7 +15,9 @@ index = 0
 while index <= 6
 puts " #{board[index]} | #{board[index+1]} | #{board[index+2]} "
 
-if index != 6 puts ""
+if index != 6
+   puts ""
+ end
 index += 3
 end
 
