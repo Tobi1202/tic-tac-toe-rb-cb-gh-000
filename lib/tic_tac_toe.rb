@@ -30,7 +30,7 @@ def move(board, index, char)
   board[index] = char
 end
 
-def valid_move?(board, index)
+def postion_taken?(board, index)
   if board[index] == " "
     return true
   else
