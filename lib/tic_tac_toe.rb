@@ -20,5 +20,4 @@ def display_board(board)
     end
     index += 3
   end
-
 end
