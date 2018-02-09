@@ -14,6 +14,6 @@ index = 0
 
 while index <= 6
 
-
+break
 
 end
