@@ -12,6 +12,6 @@ WIN_COMBINATIONS = [
 def display_board(board)
 index = 0
 
-while index < 
+while index < board.length
 
 end
