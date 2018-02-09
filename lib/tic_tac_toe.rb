@@ -31,5 +31,5 @@ def move(board, index, char = "X")
 end
 
 def valid_move?(board, index)
-return board[index].any
+return board[index] == " "
 end
