@@ -30,4 +30,4 @@ def move(board, index, char = "X")
   board[index] = char
 end
 
-def valid_move?(board)
+def valid_move?(board, index)
